@@ -1,8 +1,0 @@
-Attack detected: <script> from ::1
-Attack detected: <script> from ::1
-Attack detected: select from ::1
-Attack detected: ../ from ::1
-Attack detected: ../ from ::1
-Attack detected: <script> from ::1
-Attack detected: <script> from ::1
-Attack detected: http:// from ::1

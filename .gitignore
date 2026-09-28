@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Local runtime logs may contain request data or client addresses
+attack_log.txt
+*.log
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
